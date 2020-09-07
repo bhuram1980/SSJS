@@ -1,7 +1,7 @@
 <script runat="server">
 Platform.Load("core","1.1");
 var deObj = {
-    "CustomerKey" : "demoDE",
+    "CustomerKey" : "1demoDE",
     "Name" : "My Demo DE",
     "Fields" : [
       { "Name" : "Field 1", "FieldType" : "Number", "IsPrimaryKey" : true, "IsRequired" : true },
